@@ -1,0 +1,30 @@
+F:\Tests\WebApi Core\Application\bin\Debug\net8.0\StaffScanner.Exam.Application.deps.json
+F:\Tests\WebApi Core\Application\bin\Debug\net8.0\StaffScanner.Exam.Application.dll
+F:\Tests\WebApi Core\Application\bin\Debug\net8.0\StaffScanner.Exam.Application.pdb
+F:\Tests\WebApi Core\Application\bin\Debug\net8.0\StaffScanner.Exam.Domain.dll
+F:\Tests\WebApi Core\Application\bin\Debug\net8.0\StaffScanner.Exam.Domain.pdb
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.csproj.AssemblyReference.cache
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.AssemblyInfoInputs.cache
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.AssemblyInfo.cs
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.csproj.CoreCompileInputs.cache
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.csproj.CopyComplete
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.dll
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\refint\StaffScanner.Exam.Application.dll
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.pdb
+F:\Tests\WebApi Core\Application\obj\Debug\net8.0\ref\StaffScanner.Exam.Application.dll
+F:\Tests\WebApi Core\Headline API\Application\bin\Debug\net8.0\StaffScanner.Exam.Application.deps.json
+F:\Tests\WebApi Core\Headline API\Application\bin\Debug\net8.0\StaffScanner.Exam.Application.dll
+F:\Tests\WebApi Core\Headline API\Application\bin\Debug\net8.0\StaffScanner.Exam.Application.pdb
+F:\Tests\WebApi Core\Headline API\Application\bin\Debug\net8.0\StaffScanner.Exam.Domain.dll
+F:\Tests\WebApi Core\Headline API\Application\bin\Debug\net8.0\StaffScanner.Exam.Domain.pdb
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.csproj.AssemblyReference.cache
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.AssemblyInfoInputs.cache
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.AssemblyInfo.cs
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.csproj.CoreCompileInputs.cache
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.csproj.CopyComplete
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.dll
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\refint\StaffScanner.Exam.Application.dll
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\StaffScanner.Exam.Application.pdb
+F:\Tests\WebApi Core\Headline API\Application\obj\Debug\net8.0\ref\StaffScanner.Exam.Application.dll

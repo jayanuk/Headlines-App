@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\StaffScanner.Exam.Web.props" />
+</Project>

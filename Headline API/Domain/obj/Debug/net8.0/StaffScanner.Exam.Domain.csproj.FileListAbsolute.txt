@@ -1,0 +1,22 @@
+F:\Tests\WebApi Core\Domain\bin\Debug\net8.0\StaffScanner.Exam.Domain.deps.json
+F:\Tests\WebApi Core\Domain\bin\Debug\net8.0\StaffScanner.Exam.Domain.dll
+F:\Tests\WebApi Core\Domain\bin\Debug\net8.0\StaffScanner.Exam.Domain.pdb
+F:\Tests\WebApi Core\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tests\WebApi Core\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.AssemblyInfoInputs.cache
+F:\Tests\WebApi Core\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.AssemblyInfo.cs
+F:\Tests\WebApi Core\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.csproj.CoreCompileInputs.cache
+F:\Tests\WebApi Core\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.dll
+F:\Tests\WebApi Core\Domain\obj\Debug\net8.0\refint\StaffScanner.Exam.Domain.dll
+F:\Tests\WebApi Core\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.pdb
+F:\Tests\WebApi Core\Domain\obj\Debug\net8.0\ref\StaffScanner.Exam.Domain.dll
+F:\Tests\WebApi Core\Headline API\Domain\bin\Debug\net8.0\StaffScanner.Exam.Domain.deps.json
+F:\Tests\WebApi Core\Headline API\Domain\bin\Debug\net8.0\StaffScanner.Exam.Domain.dll
+F:\Tests\WebApi Core\Headline API\Domain\bin\Debug\net8.0\StaffScanner.Exam.Domain.pdb
+F:\Tests\WebApi Core\Headline API\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tests\WebApi Core\Headline API\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.AssemblyInfoInputs.cache
+F:\Tests\WebApi Core\Headline API\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.AssemblyInfo.cs
+F:\Tests\WebApi Core\Headline API\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.csproj.CoreCompileInputs.cache
+F:\Tests\WebApi Core\Headline API\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.dll
+F:\Tests\WebApi Core\Headline API\Domain\obj\Debug\net8.0\refint\StaffScanner.Exam.Domain.dll
+F:\Tests\WebApi Core\Headline API\Domain\obj\Debug\net8.0\StaffScanner.Exam.Domain.pdb
+F:\Tests\WebApi Core\Headline API\Domain\obj\Debug\net8.0\ref\StaffScanner.Exam.Domain.dll
