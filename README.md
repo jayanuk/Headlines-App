@@ -9,8 +9,16 @@ Take home challenge for StaffScanner
 
 4. Build and running the .net project in development mode will create the Database and initializes. No need to run any migrations.
 
-5. Open "Headline ClientApp" in VScode and update the modify the .env file with the api path at API_BASE_URL.
+5. Make sure latest NodeJs version is installed
 
-6. Go to terminal and run:  npm install
+6. Open "Headline ClientApp" in VScode and update the modify the .env file with the api path at API_BASE_URL.
 
-6. Run: npm start in terminal for client app. The headlines will be loaded.
+7. Go to terminal and run:  npm install
+
+8. Run: npm start in terminal for client app. The headlines will be loaded.
+
+Important design decisions
+
+1. For the API app, clean architechture is used with mediator and CQRS patterns. Authorization or web api end point securing with JWT to be implemented
+2. Client ap is built using create react app and using redux tool kit for state management
+3. User registration process and restrictions to make ratings or votes more than once should be implemented
