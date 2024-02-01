@@ -21,8 +21,6 @@ namespace StaffScanner.Exam.Infrastructure
         {
             var connectionString = configuration.GetConnectionString("DefaultConnection");
 
-            //Guard.Against.Null(connectionString, message: "Connection string 'DefaultConnection' not found.");
-
             services.AddDbContext<ApplicationDbContext>((sp, options) =>
             {
                 options.UseSqlServer(connectionString);
